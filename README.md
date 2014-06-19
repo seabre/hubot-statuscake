@@ -1,3 +1,7 @@
+# The repository for hubot-statuscake is now located at https://github.com/hubot-scripts/hubot-statuscake
+
+---
+
 # hubot-statuscake
 
 Send [StatusCake](http://www.statuscake.com) status messages to your organization's chat room via [Hubot](http://hubot.github.com/).
